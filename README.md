@@ -4,9 +4,9 @@ Our system is a streamlined online platform for reserving tables at university r
 
 # Log in Page
 
-On the login page, users are prompted to enter their email and password. After inputting their information, users proceed by clicking the 'Login' button.
+On the login page, users are prompted to enter their user ID and password. After inputting their information, users proceed by clicking the 'Login' button.
 
-  - If the provided email and password are incorrect, the system presents an error message, prompting users to retry entering their information.
+  - If the provided user ID and password are incorrect, the system presents an error message, prompting users to retry entering their information.
  - After successfully authenticating, users gain access to the system's functionalities.
 
 
