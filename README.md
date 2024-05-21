@@ -1,5 +1,7 @@
 
 # University-Restaurant-Table-Reservation
+Provided By:
+### Abdullah Alharthi 2035071 And Mohammed Alqahtani 2037206
 Our system is a streamlined online platform for reserving tables at university restaurants, enhancing dining convenience for students and staff.
 
 # Log in Page
